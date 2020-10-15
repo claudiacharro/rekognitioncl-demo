@@ -1,7 +1,9 @@
 # Machine Learning na AWS para desenvolvedores - Demo
 
 
+Com o Amazon Rekognition Custom Labels, você pode identificar os objetos e as cenas nas imagens que são específicos às necessidades dos seus negócios. Por exemplo, você pode encontrar seu logotipo em postagens de mídias sociais, identificar seus produtos nas prateleiras das lojas, diferenciar plantas saudáveis ou infectadas, classificar as peças de máquina em uma linha de montagem ou detectar personagens animados em vídeos.
 
+Saiba mais acessando a [documentação](https://aws.amazon.com/pt/rekognition/custom-labels-features/)
 
 ## :memo: Parte 1: Prepare suas imagens
 
